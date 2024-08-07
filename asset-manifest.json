@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.656bb2ee.css",
+    "main.js": "/static/js/main.549cc32b.js",
+    "static/js/453.a39d9867.chunk.js": "/static/js/453.a39d9867.chunk.js",
+    "static/media/Imagem1.jpg": "/static/media/Imagem1.116533807781fed5f265.jpg",
+    "static/media/Imagem5.jpg": "/static/media/Imagem5.d941096204cd1b469c9c.jpg",
+    "static/media/Imagem10.jpg": "/static/media/Imagem10.b2acbf928e69888e59ea.jpg",
+    "static/media/Imagem8.jpg": "/static/media/Imagem8.3829aaa7bc2ed8b1add9.jpg",
+    "static/media/ImagemLogo.svg": "/static/media/ImagemLogo.de0eeaf0920e30bce3db.svg",
+    "static/media/Img6.jpg": "/static/media/Img6.915b03590ebce32b9483.jpg",
+    "static/media/LogoStoll.png": "/static/media/LogoStoll.66aa087059bba0ba3de2.png",
+    "static/media/Imagem3.jpg": "/static/media/Imagem3.65ea5728c46983f02e48.jpg",
+    "static/media/Imagem9.jpg": "/static/media/Imagem9.29ff5a29c65f806b129f.jpg",
+    "static/media/Imagem7.jpg": "/static/media/Imagem7.d1a896c7e5536663a72e.jpg",
+    "static/media/Whatsapp.svg": "/static/media/Whatsapp.bc2997c8fb5c81d868dcd217e832ad02.svg",
+    "static/media/Telefone.svg": "/static/media/Telefone.df769f4a8efa17cb0b82115bd634a32f.svg",
+    "static/media/Email.svg": "/static/media/Email.8bb9033f941db1f12ce99fef3f3b023f.svg",
+    "static/media/ImgVizualizar.svg": "/static/media/ImgVizualizar.04e9db0456b7b4388712d4398dc9b865.svg",
+    "static/media/ImgClose.svg": "/static/media/ImgClose.91a6693133923612a0702421ab3e9923.svg",
+    "static/media/ImgEditar.svg": "/static/media/ImgEditar.70a3de5cea20ea7175bc06ec01b29656.svg",
+    "static/media/ImgLixeira.svg": "/static/media/ImgLixeira.d00cbee93eacf2b33f65611e8651b3d6.svg",
+    "static/media/BaixarPDF.svg": "/static/media/BaixarPDF.4748cebd45c31e874363aa9cda8e9882.svg",
+    "static/media/ImgBtnSobreNos.svg": "/static/media/ImgBtnSobreNos.1d1a8b2a279bcc737a2cc2c50a8008ea.svg",
+    "index.html": "/index.html",
+    "static/media/ExpandirSessao.svg": "/static/media/ExpandirSessao.98284db0c56e70770c4fdafccc38b759.svg",
+    "static/media/ImgMinimizarSessao.svg": "/static/media/ImgMinimizarSessao.548e4db7a7006194cb5596d6c5672af2.svg",
+    "main.656bb2ee.css.map": "/static/css/main.656bb2ee.css.map",
+    "main.549cc32b.js.map": "/static/js/main.549cc32b.js.map",
+    "453.a39d9867.chunk.js.map": "/static/js/453.a39d9867.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.656bb2ee.css",
+    "static/js/main.549cc32b.js"
+  ]
+}
